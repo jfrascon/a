@@ -1,0 +1,5 @@
+repositories:
+  d:
+    type: git
+    url: https://github.com/jfrascon/d
+    version: main
