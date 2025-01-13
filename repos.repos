@@ -3,3 +3,7 @@ repositories:
     type: git
     url: https://github.com/jfrascon/d
     version: main
+  twist_mux:
+    type: git
+    url: https://github.com/ros-teleop/twist_mux/
+    version: rolling
